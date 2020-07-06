@@ -1,4 +1,4 @@
 # Project_show
 小项目的视频和图片展示
 #
-视频的网址为：https://www.bilibili.com/video/BV1664y1u7EZ
+使用Verilog编写的计算器的视频的网址为：https://www.bilibili.com/video/BV1664y1u7EZ
