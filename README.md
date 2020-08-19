@@ -1,6 +1,11 @@
 # Project_show
 小项目的视频和图片展示
 #
+使用VScode和alios things开发的智能环境监测系统视频网址为：https://www.bilibili.com/video/BV1mC4y147ck/
+通过web端可以查看设备是否在线，如果设备在线可以实时查看各传感器数据情况，这里既可以查看实时数据，也可以查看历史数据
+如果设备端的温度传感器超过温度阈值，温度报警led灯将进行闪烁，钉钉机器人将会在群里发送报警信息，若温度再回退到阈值下，则指示灯熄灭，同时可在web端自行设置报警阈值
+可以根据需求在云端控制是否开启另一个led灯
+#
 使用Verilog编写的计算器的视频的网址为：https://www.bilibili.com/video/BV1Ef4y1R7Fc/
 #
 使用Qt开发上位机软件的智能灯光控制系统的视频网址为：https://www.bilibili.com/video/BV1Ka4y1a7tM/
